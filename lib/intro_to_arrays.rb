@@ -8,3 +8,7 @@ def array_with_two_elements
     "dogs"
   ]
 end
+
+def first_element(array)
+  array.shift()
+end
