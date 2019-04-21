@@ -8,4 +8,3 @@ def array_with_two_elements
     "dogs"
   ]
 end
-end
