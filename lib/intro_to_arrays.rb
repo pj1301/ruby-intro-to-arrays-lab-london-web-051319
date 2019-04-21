@@ -7,3 +7,4 @@ def array_with_two_elements
     "cats"
     "dogs"
   ]
+end
